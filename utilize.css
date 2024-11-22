@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+.min-h-screen{
+    min-height: 60vh;
+}
+.flex{
+    display: flex;
+}
+.j{
+    justify-content: space-between;
+}
+.na{
+    margin: 5px 5px;;
+}
+.nav{
+    display: flex;
+    margin: 5px 0px;
+    height: 5px;
+}
+.nav li{
+    list-style: none;
+    margin: 0px 15px;
+}
+.container{
+    font-family:'Ubantu', sans-serif
+}
+.pad{
+    font-size: 53px;
+    padding: 30px;
+    color: rgb(188 8 88);
+}
+.left{
+    width: 40%;
+}
+.right{
+    width: 100%;
+    padding: 20px 14px;
+
+   
+}
+.max-h-screen{
+    min-height: 30vh;
+}
+.over{
+    overflow: hidden;
+}
+.box{
+    border: 2px solid rgb(188 8 88);
+    margin:23px 43px;
+    min-width: 21vw;
+    text-align: center;
+    padding: 4px 0px;
+    border-radius: 13px;
+    font-weight: bolder;
+    font-size: 23px;
+}
+.jc{
+    justify-content:center ;
+}
+.para{
+    font-weight: lighter;
+    font-size: 15px;
+}
+.new{
+    text-align: left;
+    margin-left: 281px;
+    font-size: large;
+    margin-top: 10px;
+}
+.new1{
+    margin-left: 281px;
+    font-size: 25px;
+    margin-top: 20px;
+    font-weight: bold ;
+}
+.padd{
+    margin-left: 66px;
+}
+.hei{
+    min-height: 70vh;
+}
+.color{
+    background-color:rgb(188 8 88) ;
+    color: white;
+}
